@@ -1,5 +1,5 @@
 ## Hi, I'm Anayet Ullah 👋 
-<h2 align="center"></h2>
+<h2 align="justify"></h2>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966">
 
 <p>
@@ -10,17 +10,17 @@
 ![Profile views](https://gpvc.arturio.dev/d)  <br>
 
 ## 🚀 About Me 👼
-I am Anayet Ullah From Bangladesh . I am **CTF Player & Cyber Security Researcher**.I am still now student at **International  Islamic University Chittagong** , Department of Electronic  And Telecommunication Engineering .
+<p align="justify">I am Anayet Ullah From Bangladesh . I am **CTF Player & Cyber Security Researcher**.I am still now student at **International  Islamic University Chittagong** , Department of Electronic  And Telecommunication Engineering . </p>
 
 ## 👨‍💻 Skills & Experiance:
 <p>
-✅ 💻Python, HTML, CSS, MySQL <br>
-✅ 💥 Linux OS /Windows OS /Kali Os <br>
-✅ 💪 Cryptography / Steganography / Digital Forensics / Web-Pentestng / Osnit <br>
-✅ 💀 Ethical Hacking / Web-pentesting / Basic Networking / CTF Player <br>
-✅ 🔥 Metasploit / Nmap / Wpscaner / Burp-suite / Wireshark / gobuster / dirsearch / Hydra etc <br>
-✅ 👀 Try Hack Me / Hack The Box / Cyber Talents <br> 
-✅ 👀 Try Hack Me / Hack The Box / Cyber Talents <br>
+💻 Python, HTML, CSS, MySQL <br>
+💥 Linux OS /Windows OS /Kali Os <br>
+💪 Cryptography / Steganography / Digital Forensics / Web-Pentestng / Osnit <br>
+💀 Ethical Hacking / Web-pentesting / Basic Networking / CTF Player <br>
+🔥 Metasploit / Nmap / Wpscaner / Burp-suite / Wireshark / gobuster / dirsearch / Hydra etc <br>
+👀 Try Hack Me / Hack The Box / Cyber Talents <br> 
+
 </p>
 
 
