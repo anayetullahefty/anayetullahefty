@@ -1,7 +1,9 @@
 ### Hi, I'm Anayet Ullah 👋
 
 👑 I am Web Developer ...
+
 🖊️ Love to write code ...
+
 🎤 Like to share my knowledge ...
 
 **anayetullahefty/anayetullahefty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
