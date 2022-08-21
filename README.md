@@ -10,7 +10,7 @@
 ![Profile views](https://gpvc.arturio.dev/d)  <br>
 
 ## 🚀 About Me 👼
-<p align="justify">I am Anayet Ullah From Bangladesh . I am **CTF Player & Cyber Security Researcher**.I am still now student at **International  Islamic University Chittagong** , Department of Electronic  And Telecommunication Engineering . </p>
+<p align="justify">I am Anayet Ullah From Bangladesh . I am <b>CTF Player & Cyber Security Researcher</b>.I am still now student at <b>International  Islamic University Chittagong</b> , Department of Electronic  And Telecommunication Engineering . </p>
 
 ## 👨‍💻 Skills & Experiance:
 <p>
