@@ -7,7 +7,7 @@
 🖊️ Love to write code ...<br>
 🎤 Like to share my knowledge ...</p>
 
-![Profile views](https://gpvc.arturio.dev/d)  <br>
+![Profile views](https://gpvc.arturio.dev/anayetullahefty)    <br>
 
 ## 🚀 About Me 👼
 <p align="justify">I am Anayet Ullah From Bangladesh . I am <b>CTF Player & Cyber Security Researcher</b>.I am still now student at <b>International  Islamic University Chittagong</b> , Department of Electronic  And Telecommunication Engineering . </p>
