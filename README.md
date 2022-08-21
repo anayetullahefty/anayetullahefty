@@ -1,11 +1,13 @@
 ### Hi, I'm Anayet Ullah 👋
-
+<p>
 👑 I am Web Developer ... <br>
 🖊️ Love to write code ...<br>
-🎤 Like to share my knowledge ...<br>
-![Profile views](https://gpvc.arturio.dev/d)  
+🎤 Like to share my knowledge ...</p>
+
+![Profile views](https://gpvc.arturio.dev/d)  <br>
+
 ### 🚀 About Me
-I am Md Foysal Hossain From Bangladesh . I am CTF Player & Cyber Security Researcher.I am still now student at Islamic University Bangladesh , Department of Information And Communication Engineering .
+I am Anayet Ullah From Bangladesh . I am CTF Player & Cyber Security Researcher.I am still now student at International  Islamic University Chittagong , Department of Electronic  And Telecommunication Engineering .
 
 **anayetullahefty/anayetullahefty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
