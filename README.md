@@ -1,5 +1,5 @@
 ## Hi, I'm Anayet Ullah 👋 
-<h3 align="center">Hi, I'm Anayet Ullah</h3>
+<h2 align="center">Hi, I'm Anayet Ullah</h2>
 <p>
 👑 I am Web Developer ... <br>
 🖊️ Love to write code ...<br>
