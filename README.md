@@ -1,5 +1,7 @@
 ## Hi, I'm Anayet Ullah 👋 
 <h2 align="center"></h2>
+< img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
+
 <p>
 👑 I am Web Developer ... <br>
 🖊️ Love to write code ...<br>
