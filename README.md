@@ -1,5 +1,7 @@
 ### Hi, I'm Anayet Ullah 👋
-
+ 🔭 I’m currently working on j 
+ 🌱 I’m currently learning fd 
+ 🤔 I’m looking for help with o 
 👑 I am Web Developer ... <br>
 🖊️ Love to write code ...<br>
 🎤 Like to share my knowledge ...<br>
