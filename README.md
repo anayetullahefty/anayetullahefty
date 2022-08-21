@@ -5,6 +5,7 @@
 🖊️ Love to write code ...
 
 🎤 Like to share my knowledge ...
+![Profile views](https://gpvc.arturio.dev/d)  
 
 **anayetullahefty/anayetullahefty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
