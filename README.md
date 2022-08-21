@@ -2,10 +2,17 @@
  🔭 I’m currently working on j 
  🌱 I’m currently learning fd 
  🤔 I’m looking for help with o 
+ - 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
 👑 I am Web Developer ... <br>
 🖊️ Love to write code ...<br>
 🎤 Like to share my knowledge ...<br>
 ![Profile views](https://gpvc.arturio.dev/d)  
+### 🚀 About Me
+I am Md Foysal Hossain From Bangladesh . I am CTF Player & Cyber Security Researcher.I am still now student at Islamic University Bangladesh , Department of Information And Communication Engineering .
 
 **anayetullahefty/anayetullahefty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
