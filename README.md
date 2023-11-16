@@ -1,6 +1,6 @@
 ## Hi, I'm Anayet Ullah 👋 
 <p><b align="center"> ** SOC Analyst, CTF, Cyber Security, Ethical Hacking, Web Penetration Testing ** </b></p>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e278cbf655da98c004011927c9b4ef9ace0e73c9b8a41892b778bbe03c045379/68747470733a2f2f637373706f696e743130312e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f31302f446576656c6f7065722d6f6e2d6c6170746f702e676966">
+<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/cyber-security-3912691">
 
 <p>
 👑 I am <b>Pentester. </b><br>
