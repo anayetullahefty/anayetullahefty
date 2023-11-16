@@ -1,6 +1,6 @@
 ## Hi, I'm Anayet Ullah 👋 
 <p><b align="center"> ** SOC Analyst, CTF, Cyber Security, Ethical Hacking, Web Penetration Testing ** </b></p>
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/cyber-security-3912691">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1XBqR8sonB3FHqBWKsp9u4yKLlA6HPSk7/view?usp=sharing">
 
 <p>
 👑 I am <b>Pentester. </b><br>
@@ -10,7 +10,7 @@
 ![Profile views](https://gpvc.arturio.dev/anayetullahefty)    <br>
 
 ## 🚀 About Me 👼
-<p align="justify">I am Anayet Ullah From Bangladesh . I am <b>CTF Player & Cyber Security Researcher</b>.I am still now student at <b>International  Islamic University Chittagong</b> , Department of Electronic  And Telecommunication Engineering . </p>
+<p align="justify">I am Anayet Ullah From Bangladesh . I am <b>CTF Player & Cyber Security Researcher</b>.I am still now a student at <b>International  Islamic University Chittagong</b> , Department of Electronic  And Telecommunication Engineering . </p>
 
 ## 👨‍💻 Skills & Experiance:
 <p>
