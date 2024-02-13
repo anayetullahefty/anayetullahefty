@@ -6,8 +6,7 @@
 👑 I am <b>Pentester. </b><br>
 🖊️ Love to <b>Play CTF!</b><br>
 🎤 Like to share my <b>knowledge</b></p>
-
-![Profile views](https://gpvc.arturio.dev/anayetullahefty)    <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anayetullahefty&label=Profile%20views&color=0e75b6&style=flat" alt="anayetullahefty" /> </p> <br>
 
 ## 🚀 About Me 👼
 <p align="justify">I am Anayet Ullah From Bangladesh . I am <b>CTF Player & Cyber Security Researcher</b>.I am still now a student at <b>International  Islamic University Chittagong</b> , Department of Electronic  And Telecommunication Engineering . </p>
