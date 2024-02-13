@@ -6,17 +6,17 @@
 👑 I am <b>Pentester. </b><br>
 🖊️ Love to <b>Play CTF!</b><br>
 🎤 Like to share my <b>knowledge</b></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anayetullahefty&label=Profile%20views&color=0e75b6&style=flat" alt="anayetullahefty" /> </p> <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anayetullahefty&label=Profile%20views&color=0e75b6&style=flat" alt="anayetullahefty" /> </p> 
 
 ## 🚀 About Me 👼
-<p align="justify">I am Anayet Ullah From Bangladesh . I am <b>CTF Player & Cyber Security Researcher</b>.I am still now a student at <b>International  Islamic University Chittagong</b> , Department of Electronic  And Telecommunication Engineering . </p>
+<p align="justify">I am Anayet Ullah From Bangladesh. I am <b>CTF Player & Cyber Security Researcher</b>. Now I am working as a <b>SOC Analyst at Beximco Communications Ltd.</b> . </p>
 
-## 👨‍💻 Skills & Experiance:
+## 👨‍💻 Skills & Experience:
 <p>
 💻 Python, HTML, CSS, MySQL <br>
 💥 Linux OS /Windows OS /Kali Os <br>
-💪 Cryptography / Steganography / Digital Forensics / Web-Pentestng / Osnit <br>
-💀 Ethical Hacking / Web-pentesting / Basic Networking / CTF Player <br>
+💪 SIEM / Cryptography / Steganography / Digital Forensics / Web-Pentestng / Osnit <br>
+💀 Ethical Hacking / Web-pentesting / SOC Analyst / CTF Player <br>
 🔥 Metasploit / Nmap / Wpscaner / Burp-suite / Wireshark / gobuster / dirsearch / Hydra etc <br>
 👀 Try Hack Me / Hack The Box / Cyber Talents <br> 
 
