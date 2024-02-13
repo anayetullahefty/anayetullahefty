@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1XBqR8sonB3FHqBWKsp9u4yKLlA6HPSk7/view?usp=sharing">
 
 <p>
-👑 I am <b>Pentester. </b><br>
+👑 I am <b>SOC Analyst </b><br>
 🖊️ Love to <b>Play CTF!</b><br>
 🎤 Like to share my <b>knowledge</b></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anayetullahefty&label=Profile%20views&color=0e75b6&style=flat" alt="anayetullahefty" /> </p> 
