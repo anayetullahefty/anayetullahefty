@@ -1,7 +1,7 @@
 ## Hi, I'm Anayet Ullah 👋 
 <p><b align="center"> ** SOC Analyst, CTF, Cyber Security, Ethical Hacking, Web Penetration Testing ** </b></p>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1XBqR8sonB3FHqBWKsp9u4yKLlA6HPSk7/view?usp=sharing">
-<img src="">
+
 
 
 <p>
