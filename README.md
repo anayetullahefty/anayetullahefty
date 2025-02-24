@@ -2,24 +2,21 @@
 <p><b align="center"> ** SOC Analyst, CTF, Cyber Security, Ethical Hacking, Web Penetration Testing ** </b></p>
 
 
-<!-- Flexbox Container -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
-
-  <!-- Left Section: Content -->
-  <div style="flex: 1; padding-right: 20px;">
-    <p>
+<table>
+  <tr>
+    <!-- Left Section: Content -->
+    <td style="vertical-align: middle;">
       👑 I am <b>Security Analyst </b><br>
       🖊️ Love to <b>Play CTF!</b><br>
       🎤 Like to share my <b>knowledge</b>
-    </p>
-  </div>
+    </td>
 
-  <!-- Right Section: Image -->
-  <div style="flex: 1; text-align: right;">
-    <img src="https://github.com/anayetullahefty/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/%E2%80%94Pngtree%E2%80%94cyber%20security%20digital%20light%20effect_6810544.png" alt="Your Image" width="200"/>
-  </div>
-
-</div>
+    <!-- Right Section: Image -->
+    <td style="vertical-align: middle;">
+      <img src="https://github.com/anayetullahefty/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/%E2%80%94Pngtree%E2%80%94cyber%20security%20digital%20light%20effect_6810544.png" alt="Your Image" width="200"/>
+    </td>
+  </tr>
+</table>
 
 
 
