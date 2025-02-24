@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1XBqR8sonB3FHqBWKsp9u4yKLlA6HPSk7/view?usp=sharing">
 
 <p align="right">
-  <img src="https://drive.google.com/file/d/16AM3P3VnUwWyTKd9Fths8D_Zv-3-0BmO/view?usp=sharing" alt="Your Image" width="300"/>
+  <img src="https://github.com/anayetullahefty/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/%E2%80%94Pngtree%E2%80%94cyber%20security%20digital%20light%20effect_6810544.png" alt="Your Image" width="300"/>
 </p>
 
 
