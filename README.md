@@ -2,10 +2,11 @@
 <p><b align="center"> ** SOC Analyst, CTF, Cyber Security, Ethical Hacking, Web Penetration Testing ** </b></p>
 
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<!-- Container with inline-block for side-by-side layout -->
+<div style="white-space: nowrap;">
 
   <!-- Left Section: Content -->
-  <div>
+  <div style="display: inline-block; vertical-align: middle; width: 45%;">
     <p>
       👑 I am <b>Security Analyst </b><br>
       🖊️ Love to <b>Play CTF!</b><br>
@@ -13,8 +14,8 @@
     </p>
   </div>
 
-  <!-- Right Section: Single Image -->
-  <div>
+  <!-- Right Section: Image -->
+  <div style="display: inline-block; vertical-align: middle; width: 45%;">
     <img src="https://github.com/anayetullahefty/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/%E2%80%94Pngtree%E2%80%94cyber%20security%20digital%20light%20effect_6810544.png" alt="Your Image" width="200"/>
   </div>
 
