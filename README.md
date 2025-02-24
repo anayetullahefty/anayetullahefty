@@ -2,14 +2,15 @@
 <p><b align="center"> ** SOC Analyst, CTF, Cyber Security, Ethical Hacking, Web Penetration Testing ** </b></p>
 
 
-<p align="left">
+<!-- Left Section: Content -->
+<p align="left" style="display: inline-block;">
   👑 I am <b>Security Analyst </b><br>
   🖊️ Love to <b>Play CTF!</b><br>
   🎤 Like to share my <b>knowledge</b>
 </p>
 
 <!-- Right Section: Image -->
-<p align="right">
+<p align="right" style="display: inline-block;">
   <img src="https://github.com/anayetullahefty/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/%E2%80%94Pngtree%E2%80%94cyber%20security%20digital%20light%20effect_6810544.png" alt="Your Image" width="200"/>
 </p>
 
