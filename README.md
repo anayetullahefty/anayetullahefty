@@ -2,8 +2,9 @@
 <p><b align="center"> ** SOC Analyst, CTF, Cyber Security, Ethical Hacking, Web Penetration Testing ** </b></p>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1XBqR8sonB3FHqBWKsp9u4yKLlA6HPSk7/view?usp=sharing">
 
+
 <p align="right">
-  <img src="https://github.com/anayetullahefty/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/%E2%80%94Pngtree%E2%80%94cyber%20security%20digital%20light%20effect_6810544.png" alt="Your Image" width="300"/>
+  <img src="https://github.com/anayetullahefty/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/%E2%80%94Pngtree%E2%80%94cyber%20security%20digital%20light%20effect_6810544.png" alt="Your Image" width="200" style="margin-right: 20px;"/>
 </p>
 
 
