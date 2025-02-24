@@ -1,10 +1,6 @@
 ## Hi, I'm Anayet Ullah 👋 
 <p><b align="center"> ** SOC Analyst, CTF, Cyber Security, Ethical Hacking, Web Penetration Testing ** </b></p>
 
-<p align="right">
-  <img src="https://github.com/anayetullahefty/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/%E2%80%94Pngtree%E2%80%94cyber%20security%20digital%20light%20effect_6810544.png" alt="Your Image" width="200" style="margin-right: 20px;"/>
-</p>
-
 <div style="float: left; width: 50%; margin-right: 20px;">
   <p>
     👑 I am <b>Security Analyst </b><br>
@@ -13,6 +9,12 @@
   </p>
   <img src="https://github.com/anayetullahefty/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/%E2%80%94Pngtree%E2%80%94cyber%20security%20digital%20light%20effect_6810544.png" alt="Your Image" width="200"/>
 </div>
+
+<p align="right">
+  <img src="https://github.com/anayetullahefty/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/%E2%80%94Pngtree%E2%80%94cyber%20security%20digital%20light%20effect_6810544.png" alt="Your Image" width="200" style="margin-right: 20px;"/>
+</p>
+
+
 
 <p>
 👑 I am <b>Security Analyst </b><br>
