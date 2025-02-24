@@ -5,19 +5,19 @@
 
 
 <p>
-👑 I am <b>SOC Analyst </b><br>
+👑 I am <b>Security Analyst </b><br>
 🖊️ Love to <b>Play CTF!</b><br>
 🎤 Like to share my <b>knowledge</b></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anayetullahefty&label=Profile%20views&color=0e75b6&style=flat" alt="anayetullahefty" /> </p> 
+<p align="left"> <img src="https://drive.google.com/file/d/16AM3P3VnUwWyTKd9Fths8D_Zv-3-0BmO/view?usp=sharing" alt="anayetullahefty" /> </p> 
 
 ## 🚀 About Me 👼
-<p align="justify">I am Anayet Ullah From Bangladesh. I am <b>CTF Player & Cyber Security Researcher</b>. Now I am working as a <b>SOC Analyst at Beximco Communications Ltd.</b> . </p>
+<p align="justify">I am Anayet Ullah From Bangladesh. I’m a dedicated <b> Security Analyst 🔍 and Cyber Security Researcher 🛡️ </b> with a passion for defending digital environments against emerging threats. With hands-on experience in threat detection ⚠️, incident response 🔥, and vulnerability assessment 🛠️, I continuously strive to deepen my expertise in cybersecurity. I enjoy dissecting complex security challenges 🧠, researching novel attack vectors 🌐, and implementing proactive measures to safeguard critical assets 🔒. </p>
 
 ## 👨‍💻 Skills & Experience:
 <p>
 💻 Python, HTML, CSS, MySQL <br>
 💥 Linux OS /Windows OS /Kali Os <br>
-💪 SIEM / Cryptography / Steganography / Digital Forensics / Web-Pentestng / Osnit <br>
+💪 SIEM / Cryptography / Steganography / Digital Forensics / Web-Pentestng / Osnit / AWS / Docker <br>
 💀 Ethical Hacking / Web-pentesting / SOC Analyst / CTF Player <br>
 🔥 Metasploit / Nmap / Wpscaner / Burp-suite / Wireshark / gobuster / dirsearch / Hydra etc <br>
 👀 Try Hack Me / Hack The Box / Cyber Talents <br> 
