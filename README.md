@@ -7,6 +7,22 @@
     🖊️ Love to <b>Play CTF!</b><br>
     🎤 Like to share my <b>knowledge</b>
   </p>
+</div>
+
+<!-- Right Section: Single Image -->
+<div style="float: right; width: 50%; margin-left: 20px;">
+  <img src="https://github.com/anayetullahefty/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/%E2%80%94Pngtree%E2%80%94cyber%20security%20digital%20light%20effect_6810544.png" alt="Your Image" width="200"/>
+</div>
+
+<!-- Clear Floats to Avoid Layout Issues -->
+<div style="clear: both;"></div>
+
+<div style="float: left; width: 50%; margin-right: 20px;">
+  <p>
+    👑 I am <b>Security Analyst </b><br>
+    🖊️ Love to <b>Play CTF!</b><br>
+    🎤 Like to share my <b>knowledge</b>
+  </p>
   <img src="https://github.com/anayetullahefty/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/%E2%80%94Pngtree%E2%80%94cyber%20security%20digital%20light%20effect_6810544.png" alt="Your Image" width="200"/>
 </div>
 
