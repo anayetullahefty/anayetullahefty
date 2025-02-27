@@ -10,15 +10,13 @@
 <p align="justify">I am Anayet Ullah From Bangladesh. I’m a dedicated <b> Security Analyst 🔍 and Cyber Security Researcher 🛡️ </b> with a passion for defending digital environments against emerging threats. With hands-on experience in threat detection ⚠️, incident response 🔥, and vulnerability assessment 🛠️, I continuously strive to deepen my expertise in cybersecurity. I enjoy dissecting complex security challenges 🧠, researching novel attack vectors 🌐, and implementing proactive measures to safeguard critical assets 🔒. </p>
 
 ## 👨‍💻 Skills & Experience:
-<p>
-💻 Python, HTML, CSS, MySQL <br>
-💥 Linux OS /Windows OS /Kali Os <br>
-💪 SIEM / Cryptography / Steganography / Digital Forensics / Web-Pentestng / Osnit / AWS / Docker <br>
-💀 Ethical Hacking / Web-pentesting / SOC Analyst / CTF Player <br>
-🔥 Metasploit / Nmap / Wpscaner / Burp-suite / Wireshark / gobuster / dirsearch / Hydra etc <br>
-👀 Try Hack Me / Hack The Box / Cyber Talents <br> 
 
-</p>
+- 💻 Python, HTML, CSS, MySQL
+- 💥 Linux OS /Windows OS /Kali Os 
+- 💪 SIEM / Cryptography / Steganography / Digital Forensics / Web-Pentestng / Osnit / AWS / Docker 
+- 💀 Ethical Hacking / Web-pentesting / SOC Analyst / CTF Player 
+- 🔥 Metasploit / Nmap / Wpscaner / Burp-suite / Wireshark / gobuster / dirsearch / Hydra etc 
+- 👀 Try Hack Me / Hack The Box / Cyber Talents 
 
 
 <h2 align="left">☕ Connect with me!</h2> 
